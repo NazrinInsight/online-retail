@@ -52,7 +52,7 @@ ORDER BY TotalRevenue DESC;
 
 ---
 
-## 🔹 3. Pareto Analysis (Top 10 Customers)
+## 🔹 3. Top 10 Customers
 
 ```sql
 SELECT TOP 10
