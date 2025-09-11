@@ -35,7 +35,7 @@ FROM onlineretail;
 
 ---
 
-## 🔹 2. Market Share by Country
+## 🔹 2. Retail Share by Country
 
 ```sql
 SELECT 
